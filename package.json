@@ -12,7 +12,9 @@
   ],
   "author": "gaston@aconcepti.com",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "event-stream": "^4.0.1",
     "htmltidy2": "^0.3.0"
   }
 }
