@@ -15,6 +15,7 @@
   "devDependencies": {},
   "dependencies": {
     "event-stream": "^4.0.1",
-    "htmltidy2": "^0.3.0"
+    "htmltidy2": "^0.3.0",
+    "jsdom": "^13.2.0"
   }
 }
